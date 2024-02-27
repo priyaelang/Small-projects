@@ -1,2 +1,2 @@
 # Small-projects
-Author- Priya Elango
+Author- Priya
